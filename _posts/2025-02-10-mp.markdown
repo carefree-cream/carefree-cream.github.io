@@ -1,0 +1,16 @@
+---
+layout:       post
+title:        "第一个博客"
+author:       "逍遥奶油"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+现在是2025年2月10日晚，我着手创建自己的第一个博客。
+
+在购买了一个域名之后，下一步做法让我茫然，这里跟随技术爬爬虾一步一步学习。
+
+“逍遥奶油”，谨以此名纪念我的青春。
